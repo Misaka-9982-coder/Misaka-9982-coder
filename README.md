@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <ol> 🌱 I’m currently learning in SZU </ol>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-9982-coder&layout=compact&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Misaka-9982-coder&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
