@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me
-<ol> 🌱 I’m currently learning in SZU </ol>
+ 🌱 I’m currently writing in [My Blog](http://www.misaka-9982.com/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-9982-coder&layout=compact&show_icons=true&theme=blueberry)]()
