@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 ### About me
  - 🌱 I’m currently writing in [My Blog](http://www.misaka-9982.com/)
- - 💬 Welcome to communicate with me in the [Telegram Group](https://t.me/+ih3m863trP4yZTFl)
- - 📣 This is my [Telegram Channel](https://t.me/+m3x7kvycG6c5MWU1)
 
 
 <div >
