@@ -29,6 +29,4 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Misaka-9982-coder's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Misaka-9982-coder&theme=github-compact)](https://github.com/Misaka-9982-coder/github-readme-activity-graph)
-
 ![](./assets/Bottom_down.svg)
