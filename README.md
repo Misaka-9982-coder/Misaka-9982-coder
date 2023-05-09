@@ -20,8 +20,6 @@ Here are some ideas to get you started:
  - 🌱 I’m currently writing in [My Blog](http://www.misaka-9982.com/)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Misaka-9982-coder&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 <div>
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Misaka-9982-coder" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Misaka-9982-coder&layout=compact&langs_count=8" />
